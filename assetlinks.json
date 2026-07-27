@@ -1,8 +1,11 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.eredano_tech.twa",
-        "sha256_cert_fingerprints": ["16:D1:AA:EA:03:3B:9E:03:4E:BC:F8:53:87:6A:F6:B7:F8:2A:C9:52:02:28:EB:16:90:76:99:15:79:7A:68:2B"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.eredano_tech.twa",
+      "sha256_cert_fingerprints":
+        ["28:36:40:84:34:DE:FE:A9:58:6E:95:6D:65:D8:8D:AA:86:81:24:ED:64:69:36:59:BB:37:03:DE:06:3F:F2:96"]
+    }
+  }
+]
